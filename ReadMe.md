@@ -282,54 +282,6 @@ https://www.spaceweather.gov/products/solar-wind
 **NOAA Planetary K-index:**  
 https://www.spaceweather.gov/products/planetary-k-index
 
----
-
-## 📸 Screenshots
-
-Recommended captures:
-
-### 01 — The instrument
-
-Show the complete dashboard and its Sun–Earth visualisation.
-
-```text
-screenshots/dashboard-overview.png
-```
-
-### 02 — The telemetry
-
-Show the numerical readouts, Kp gauge and recent trend charts clearly.
-
-```text
-screenshots/dashboard-telemetry.png
-```
-
-Add them to the repository:
-
-```markdown
-![Dashboard overview](screenshots/dashboard-overview.png)
-
-![Dashboard telemetry](screenshots/dashboard-telemetry.png)
-```
-
----
-
-## 📁 Repository structure
-
-```text
-space-weather-dashboard/
-│
-├── index.html
-├── README.md
-│
-└── screenshots/
-    ├── dashboard-overview.png
-    └── dashboard-telemetry.png
-```
-
----
-
-## ⚠️ A note about the visualisation
 
 The measurements come from NOAA's public space-weather data services.
 
